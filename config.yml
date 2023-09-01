@@ -1,5 +1,5 @@
 languageCode:           "en"
-title:                  "Scoutstrap"
+title:                  "Scout Site"
 baseURL:                "https://scoutstrap.github.io"
 enableInlineShortcodes: true
 
